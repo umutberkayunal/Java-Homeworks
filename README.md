@@ -11,7 +11,4 @@ Derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış g
 
 Aşağıdaki istekler gerçekleştilecek.
 
-Kurs ismi tekrar edemez
-Kategori ismi tekrar edemez
-Bir kursun fiyatı 0 dan küçük olamaz
-Kodlarınızı github'a aktarınız
+Kurs ismi tekrar edemez, Kategori ismi tekrar edemez, Bir kursun fiyatı 0 dan küçük olamaz
