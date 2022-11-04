@@ -12,3 +12,13 @@ Derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış g
 Aşağıdaki istekler gerçekleştilecek.
 
 Kurs ismi tekrar edemez, Kategori ismi tekrar edemez, Bir kursun fiyatı 0 dan küçük olamaz
+
+## Kodlama.io.Devs
+
+An example of this homework can be found in https://github.com/umutberkayunal/Java-Exercises/tree/master/campspring/rentACar
+
+Req 1 : Sistemde programlama dilleri tutulmalıdır.
+
+Programlama dillerini(C#,Java,Python) ekleyebilecek, silebilecek, güncelleyebilecek, listeleyebilecek, id ile getirebilecek kodları yazınız. Bunu tamamen in memory yapınız.
+İsimler tekrar edemez.
+Programlama dili boş geçilemez. (Validation kullanmadan, kod yazarak algoritmik çözünüz)
